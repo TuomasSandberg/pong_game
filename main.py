@@ -1,5 +1,5 @@
 from turtle import Turtle, Screen
-from Paddle import Paddle
+from paddle import Paddle
 
 screen = Screen()
 right_paddle = Paddle(350, 0)
